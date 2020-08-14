@@ -1,0 +1,10 @@
+// Médotos
+
+// GET: Buscar ou listar uma informação
+// POST: Criar alguma informação
+// PUT: atualizar uma informação existente
+// DELETE: excluir uma informação existente
+
+// corpo ( Request Body): Dados para criação ou atualização de um request
+// Route Params: Identificar qual recurso eu quero atualizar ou deletar
+// Query Params: Usado para paginação, filtros, ordenação
